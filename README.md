@@ -31,7 +31,8 @@
     <h3>Contact Me 🤳</h3>
     <p>
     <ul>
-      <li> benoythomas30@gmail.com </li>
+      <li> <a href="mailto:benoythomas30@gmail.com" </li>
+      <li><a href=""class="btn>Give me a follow on LinkedIn</li>
     </ul>
     </p>
 
